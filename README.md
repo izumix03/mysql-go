@@ -2,7 +2,7 @@
 ## Installation
 Simple install the package to your $GOPATH with the go tool from shell:
 ```
-$ go get -u github.com/go-sql-driver/mysql
+$ go get -u github.com/izumix03/mysqlgo
 ```
 Make sure Git is installed on your machine and in your system's PATH.
 
